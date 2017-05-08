@@ -7,7 +7,7 @@ html, body, h1, h2, h3, ul, ol, p, div{
 
 /*general css*/
 html {
- font-family: 'Dancing Script', cursive; 
+ font-family: 'Josefin Sans', sans-serif;
  margin: 20px;
  color:#484848;
  background-color: #eaeff9;
@@ -17,7 +17,7 @@ h1{
     font-size: 60px;
     color: #72a435;
     border-bottom: 1px solid #cccccc;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     margin-left: 20px;
 }
 h2{
@@ -43,7 +43,7 @@ div{
     margin: 0 0 50px 0;
 }
 header{
-    height: 600px;
+    height: 620px;
 }
 footer{
     color: #72a435;
@@ -78,7 +78,7 @@ img{
     display:inline;
 }
 .nav a {
-    font-size: 25px;
+    font-size: 22px;
     text-decoration: none;
     margin: 20px;
     color:#484848;
