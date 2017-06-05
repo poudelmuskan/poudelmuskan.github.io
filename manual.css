@@ -1,0 +1,17 @@
+body { max-width: 100%; overflow-x: hidden; }
+ul {
+    margin-top:50px;
+}
+
+.nav li{
+    margin-bottom: 27px;
+    font-size: 16px;
+}
+
+.personal, .professional, .techskill, .persskill, .edu, .bff{
+    display: none;
+}
+
+.btn{
+    font-size: 26px;
+}
